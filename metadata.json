@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Agent Workflow Studio",
+  "description": "An interactive studio to design, simulate, and execute multi-agent collaborative pipelines powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
